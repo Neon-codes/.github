@@ -8,7 +8,7 @@
 
 <h2>Get Started with Neon Codes</h2>
 <ol>
-    <li>Become a part of the Neon Codes journey by visiting our official <a href="(https://neoncodes.netlify.app/)">website</a>.</li>
+    <li>Become a part of the Neon Codes journey by visiting our official <a href="https://neoncodes.netlify.app/">website</a>.</li>
     <li> Join the Neon Codes <a href="https://discord.neoncodes.org">Discord</a> community to collaborate, learn, and share your ideas with like-minded creators.</li>
     <li> Learn more about web design and development by exploring our educational resources on <a href="#">YouTube</a>.</li>
     <li> Contribute to our projects by checking out the <a href="#">Neon Codes GitHub</a> repository. Pull requests, issues, and suggestions are always welcome!</li>
